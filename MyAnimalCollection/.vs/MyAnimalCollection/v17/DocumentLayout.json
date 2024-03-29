@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\wood frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\wood frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|c:\\users\\user\\source\\repos\\myanimalcollection\\myanimalcollection\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797F14F0-48EA-4364-863B-D7A0168F4B77}|MyAnimalCollection\\MyAnimalCollection.csproj|solutionrelative:myanimalcollection\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Panda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Panda.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Panda.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Panda.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Panda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:33:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Animal.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Animal.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Animal.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:32:55.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wood Frog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Wood Frog.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Wood Frog.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Wood Frog.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Wood Frog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:32:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Cow.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Cow.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Cow.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Cow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:43:29.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Owl.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Owl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Owl.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Owl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:30:12.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Program.cs",
+              "RelativeDocumentMoniker": "MyAnimalCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyAnimalCollection\\MyAnimalCollection\\Program.cs",
+              "RelativeToolTip": "MyAnimalCollection\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:21:13.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

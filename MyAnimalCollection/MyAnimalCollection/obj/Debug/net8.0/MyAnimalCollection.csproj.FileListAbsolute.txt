@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\bin\Debug\net8.0\MyAnimalCollection.exe
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\bin\Debug\net8.0\MyAnimalCollection.deps.json
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\bin\Debug\net8.0\MyAnimalCollection.runtimeconfig.json
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\bin\Debug\net8.0\MyAnimalCollection.dll
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\bin\Debug\net8.0\MyAnimalCollection.pdb
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.AssemblyInfo.cs
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.sourcelink.json
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.dll
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\refint\MyAnimalCollection.dll
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.pdb
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\MyAnimalCollection.genruntimeconfig.cache
+C:\Users\User\source\repos\MyAnimalCollection\MyAnimalCollection\obj\Debug\net8.0\ref\MyAnimalCollection.dll
